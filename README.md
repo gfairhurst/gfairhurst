@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**gfairhurst/gfairhurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm Guillermo Fairhurst, this is my Github Profile.
 
 - 🔭 I’m currently working at [Digital House](www.digitalhouse.com.ar) as **Data Science and Machine Learning Professor**.
@@ -14,5 +11,7 @@ I'm Guillermo Fairhurst, this is my Github Profile.
 - [Email](guillermo.fairhurst@gmail.com)
 - [Twitter](https://twitter.com/FairhurstBilly)
 
+<!--
+**gfairhurst/gfairhurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
